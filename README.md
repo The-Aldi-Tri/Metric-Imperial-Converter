@@ -1,13 +1,29 @@
 # Metric-Imperial Converter
-Build a full stack JavaScript app that is functionally similar to this: https://metric-imperial-converter.freecodecamp.rocks/.
+
+[![Run on Repl.it](https://replit.com/badge/github/The-Aldi-Tri/Metric-Imperial-Converter)](https://replit.com/new/github/The-Aldi-Tri/Metric-Imperial-Converter)
+
+*You need an account on Replit
+
 
 ## FreeCodeCamp - Quality Assurance Certification Projects
 
-1. Metric-Imperial Converter - https://github.com/The-Aldi-Tri/Metric-Imperial-Converter
-2. Issue Tracker - https://github.com/The-Aldi-Tri/Issue-Tracker
-3. Personal Library - https://github.com/The-Aldi-Tri/Personal-Library
-4. Sudoku Solver - https://github.com/The-Aldi-Tri/Sudoku-Solver
-5. American British Translator - https://github.com/The-Aldi-Tri/American-British-Translator
+Instructions for building the project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter.
 
-Instructions and challenges for building the project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter.<br />
-The boilerplate for the Metric-Imperial Converter project can be found at https://github.com/freeCodeCamp/boilerplate-project-metricimpconverter/. 
+
+## Assignment
+
+Build a full stack JavaScript app that is functionally similar to this: [https://metric-imperial-converter.freecodecamp.rocks/](https://metric-imperial-converter.freecodecamp.rocks/). Working on this project will involve you writing your code using one of the following methods:
+
+*   Clone [this GitHub repo](https://github.com/freeCodeCamp/boilerplate-project-metricimpconverter/) and complete your project locally.
+*   Use [our Replit starter project](https://replit.com/github/freeCodeCamp/boilerplate-project-metricimpconverter) to complete your project.
+*   Use a site builder of your choice to complete the project. Be sure to incorporate all the files from our GitHub repo.
+
+If you use Replit, follow these steps to set up the project:
+
+*   Start by importing the project on Replit.
+*   Next, you will see a `.replit` window.
+*   Select `Use run command` and click the `Done` button.
+
+When you are done, make sure a working demo of your project is hosted somewhere public. Then submit the URL to it in the Solution Link field. Optionally, also submit a link to your project's source code in the GitHub Link field.
+
+**Note:** This project's tests do not work when using `glitch.com`.
